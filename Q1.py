@@ -6,3 +6,4 @@ for i in scores:
 
 avg = total / len(scores)
 print(avg)
+print("수정된 출력")
